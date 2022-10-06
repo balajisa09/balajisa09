@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @balajisa09
-- 👀 I work on linux, networking , kubernetes , backend development in golang
+- 👀 I work on linux, networking, kubernetes, backend development in golang
 - 🌱 currently learning kubernetes
 - 💞️ looking to collaborate on open source projects.
 - 📫 How to reach me  - linkedin.com/in/balaji-sa/
