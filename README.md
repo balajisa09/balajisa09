@@ -4,8 +4,6 @@
 - 💞️ looking to collaborate on open source projects.
 - 📫 How to reach me  - linkedin.com/in/balaji-sa/
 
-![Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=balajisa09&show_icons=true&theme=radical)
-
 
 
 <!---
